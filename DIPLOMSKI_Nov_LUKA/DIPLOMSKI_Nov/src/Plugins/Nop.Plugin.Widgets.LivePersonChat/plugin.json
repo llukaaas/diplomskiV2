@@ -1,0 +1,13 @@
+{
+  "Group": "Widgets",
+  "FriendlyName": "Live person (Chat)",
+  "SystemName": "Widgets.LivePersonChat",
+  "Version": "1.43",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "nopCommerce team, Nop-Station Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.LivePersonChat.dll",
+  "Description": "This plugin allows you to integrate with LivePerson to chat with your customers online",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": []
+}
